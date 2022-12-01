@@ -1,10 +1,10 @@
 import './assets/styles/custom.scss';
 import './App.css';
-import { Home } from 'pages/Home';
+import { RouteList } from 'RouteList';
 
 function App() {
   return (
-    <Home />
+    <RouteList />
   );
 }
 
